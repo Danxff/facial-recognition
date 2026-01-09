@@ -1,0 +1,16 @@
+RELATÓRIO DE ANÁLISE DE VÍDEO
+=============================
+
+Total de Frames Analisados: 3326
+Total de Anomalias (Movimentos Bruscos): 855
+
+Contagem de Emoções Detectadas:
+- sad: 86
+- fear: 41
+- happy: 107
+- angry: 12
+- neutral: 79
+- surprise: 13
+
+=============================
+Fim do Relatório.
